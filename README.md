@@ -3,7 +3,7 @@ ___
 <h3 align="center">
 <details>
 <summary>🤗
-</summary>
+</summary>major in game software, and I love Game!
 <p align="center">
 </p>
 </details>
